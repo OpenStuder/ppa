@@ -1,0 +1,16 @@
+Package: openstuder-gateway
+Version: 0.1.0
+Architecture: armhf
+Maintainer: michel.clausen@hevs.ch
+Installed-Size: 1334
+Depends: libqt5core5a,libqt5serialport5,libqt5serialbus5,libqt5sql5,libqt5network5,libqt5websockets5,libqt5bluetooth5
+Filename: ./openstuder-gateway-0.1.0-Linux.deb
+Size: 459746
+MD5sum: 0f3d7bd2717369a501dc64e7cf5bd884
+SHA1: 064032081b0f2bb23056a5538fb1769ef4fec1db
+SHA256: 5cfe05871fc07e958d6309a83ca9a72ae2009f3e4261cfb826d245dc2781c756
+Section: devel
+Priority: optional
+Homepage: http://openstuder.github.io
+Description: openstuder-gateway built using CMake
+
