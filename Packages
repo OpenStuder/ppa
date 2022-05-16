@@ -30,3 +30,19 @@ Priority: optional
 Homepage: http://openstuder.github.io
 Description: openstuder-gateway built using CMake
 
+Package: openstuder-gateway
+Version: 0.1.2
+Architecture: armhf
+Maintainer: michel.clausen@hevs.ch
+Installed-Size: 1334
+Depends: libqt5core5a,libqt5serialport5,libqt5serialbus5,libqt5sql5,libqt5network5,libqt5websockets5,libqt5bluetooth5
+Filename: ./openstuder-gateway-0.1.2-Linux.deb
+Size: 459806
+MD5sum: 6b74c26b4c782246963a558b69b05b69
+SHA1: 8b5d7a966cffe283e9a53654ee8e4b701c36150e
+SHA256: 30641c08d5e495d9772305d9ba722a1021560cdb625bc374976c7f3eaae638d2
+Section: devel
+Priority: optional
+Homepage: http://openstuder.github.io
+Description: openstuder-gateway built using CMake
+
