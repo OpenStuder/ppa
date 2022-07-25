@@ -110,3 +110,18 @@ Priority: optional
 Homepage: http://openstuder.github.io
 Description: openstuder-gateway built using CMake
 
+Package: openstuder-web
+Version: 0.2.0
+Architecture: all
+Maintainer: michel.clausen@hevs.ch
+Recommends: lighttpd | nginx | apache2 | httpd
+Filename: ./openstuder-web-0.2.0.deb
+Size: 715904
+MD5sum: 6fc36bb23de83fc687fbad9a1eed42b0
+SHA1: a904df9d64e8c5327d3e4abf5aa63e6575fd64f1
+SHA256: 4e618514ae12f7f8969eadd1385bdbdfc5426876b83838d35ec40c120a1375bc
+Section: web
+Priority: optional
+Homepage: http://openstuder.github.io
+Description: openstuder web UI React application
+
