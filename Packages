@@ -142,6 +142,22 @@ Priority: optional
 Homepage: http://openstuder.github.io
 Description: openstuder gateway
 
+Package: openstuder-gateway
+Version: 0.3.3
+Architecture: armhf
+Maintainer: michel.clausen@hevs.ch
+Installed-Size: 1779
+Depends: libqt5core5a,libqt5serialport5,libqt5serialbus5,libqt5sql5,libqt5network5,libqt5websockets5,libqt5bluetooth5
+Filename: ./openstuder-gateway-0.3.3-Linux.deb
+Size: 600018
+MD5sum: 9229bf91fe8ab0fa7ca12a9bf5f66cb4
+SHA1: b2569fb1f98e41bf207a6823d5668a6224272b25
+SHA256: 376643396b6d950d610273a1c66f91a1b0f03efeefba637c1283f032aae782b0
+Section: devel
+Priority: optional
+Homepage: http://openstuder.github.io
+Description: openstuder gateway
+
 Package: openstuder-web
 Version: 0.2.0
 Architecture: all
